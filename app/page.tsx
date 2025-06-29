@@ -19,7 +19,7 @@ export default function HomePage() {
       <h2>🚀 Get Started</h2>
       <p>
         👉 <a href="https://training.t21services.co.uk/enquiry-form" target="_blank">Register for NHS Admin Training</a><br/>
-        👉 <a href="https://t21servicestraining.co.uk/admin/dashboard/main" target="_blank">Access Practical Training Platform</a>
+        👉 <a href="https://t21servicestraining.co.uk/account/login" target="_blank">Access Practical Training Platform</a>
       </p>
 
       <h2>🔗 Learn More</h2>
